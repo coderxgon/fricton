@@ -1,7 +1,7 @@
 const https = require('https');
 
 // Replace 'YOUR_BOT_TOKEN' with your actual bot token
-const BOT_TOKEN = 'YOUR_BOT_TOKEN';
+const BOT_TOKEN = '7583007083:AAFoKv4V1gPsN4ZNbYtAVCdzsP2VqBgkLIs';
 const TELEGRAM_API_URL = `https://api.telegram.org/bot${BOT_TOKEN}`;
 
 // Function to send a message to a chat
